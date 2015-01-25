@@ -2,6 +2,7 @@
 Course project for Coursera Class Getting and Cleaning Data
 
 **This manual should guide you through the code I created.**
+
 First of all, unpack the data and enter its directory.
 ```R
 unzip("UCI_Dataset.zip")
